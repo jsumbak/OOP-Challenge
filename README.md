@@ -7,7 +7,6 @@ This is a command line application which will take information about employee's 
 # Links:
  - Application URL: https://jsumbak.github.io/OOP-Challenge/
  - GitHub Repo: https://github.com/jsumbak/OOP-Challenge
-
+ - Video Overview: https://drive.google.com/file/d/1TYIVPISlEli7TbkBz1ORC_WOgdgieANX/view 
 # Visuals
- - Video Overview: <img src="./assets/video.png" type="video">
 <img src="./assets/OOPSS.png">
